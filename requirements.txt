@@ -1,5 +1,5 @@
-streamlit-webrtc
-av
-opencv-python
-numpy
-streamlit
+av==9.2.0
+numpy==1.23.0
+opencv_python_headless==4.6.0.66
+streamlit==1.11.1
+streamlit_webrtc==0.43.0
